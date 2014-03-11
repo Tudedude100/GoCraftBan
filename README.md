@@ -1,3 +1,12 @@
+//Made by Tudedude(Tudedude100) for DoctorGocada
+//Using Bukkit for Craftbukkit servers
+//Bukkit intellectual property of the Bukkit coding team
+//I claim no rights to Bukkit, only the code of this project itself
+//Dated 3/10/14 - 7:50 PM PST
+
+
+
+
 package io.github.Tudedude100;
 
 import java.text.SimpleDateFormat;
@@ -16,12 +25,6 @@ import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class GocadacraftBan extends JavaPlugin implements Listener{
-
-//Made by Tudedude(Tudedude100) for DoctorGocada
-//Using Bukkit for Craftbukkit servers
-//Bukkit intellectual property of the Bukkit coding team
-//I claim no rights to Bukkit, only the code of this project itself
-//Dated 3/10/14 - 7:50 PM PST
 	
 	public void onEnable(){
 		PluginManager pm = getServer().getPluginManager();
